@@ -13,7 +13,7 @@ yuvaraj
         else
             System.out.println(num + " is Odd.");
         
-        scanner.close();
+        scanner.closafafae();
     }
 }
 
